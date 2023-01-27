@@ -1,14 +1,14 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerNumber": ["6283894145941@s.whatsapp.net","6283899262115@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ FikiOfcོOfcོ ×፝֟͜×",
     "instagram" : "https://instagram.com/zeeoneofc",
     "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.my.id",
+    "footer": "https://api-wa.kontenboty.repl.co/",
     "sessionName": "session",
-    "fotoDonasi": "./qris.jpg",
+    "fotoDonasi": "./Screenshot_20230126-211611_Gojek.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "Apikey lu",
-    "audio_di_bagian_menu": "./menu.mp3",
+    "audio_di_bagian_menu": "./Hay saya adalah bot whatsapp jangan di hina yah.mp3",
     "auto_welcomeMsg": false,
     "auto_leaveMsg": false, 
     "antiViewOnce": true,
@@ -21,7 +21,7 @@
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
-        "prem": 1000,
-        "user": 15
+        "prem": "banyak",
+        "user": 5
     }
 }
